@@ -1,0 +1,14 @@
+thomasgames/
+├─ index.html
+├─ css/
+│  └─ style.css
+├─ js/
+│  └─ fake-clash-royale.js
+├─ games/
+│  ├─ clash-royale.html
+│  ├─ snake.html
+│  └─ ...
+├─ images/
+│  ├─ clash-royale.png
+│  ├─ snake.png
+│  └─ ...
